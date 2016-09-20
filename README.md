@@ -1,12 +1,15 @@
 # gototop-jquery
 
+## jQuery
+
+
 ## Installation:
 
 ```
 <script>
-     $( document ).ready(function() {
+     jQuery( document ).ready(function() {
                 GotoTop.Init({
-                    background: "(COLOR)"
+                    background: "#333" //Or other color
                 });
             });
  </script>
