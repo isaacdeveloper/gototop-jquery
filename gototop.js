@@ -1,3 +1,18 @@
+/**
+ * GotoTop Script
+ *
+ * Github: https://github.com/isaacdeveloper/gototop-jquery/
+ * Author: Isaac Ruiz
+ * Install:
+ * <script>
+     $( document ).ready(function() {
+                GotoTop.Init({
+                    background: (COLOR)
+                });
+            });
+     </script>
+ */
+
 var GotoTop = function(modulo) {
 
     modulo.Init = function(config) {
